@@ -1,6 +1,6 @@
 # FizzBuzz
 
-**TODO: Add description**
+**Um programa simples cujo objetivo é ler um arquivo e mudar os números presentes nele, para múltiplos de 3 muda para Fizz, para múltiplos de 5 muda para Buzz, para múltiplos de 3 e 5 muda para Fizz_Buzz.*
 
 ## Installation
 
